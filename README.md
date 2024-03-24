@@ -3,7 +3,7 @@
 
 Enthusiastic Information systems graduate student from George Mason University with a passion for leveraging cutting-edge technologies to extract insights from data and drive impactful decision-making. Seeking opportunities to apply expertise in machine learning, data analytics, and visualization to contribute to innovative projects.
 <p align="center">
-  <img src="love.jpeg"  width="200" height="200" style="border-radius: 50%;">
+  <img src="data.jpeg"  width="200" height="200" style="border-radius: 50%;">
 </p>
 
 
